@@ -2,7 +2,6 @@
 
 - Applying the concepts from unit 13, I modified the provided code for this ecommerce web application with the following functionality:
 
-
 ### Database
 - Followed best practices, such as renaming and loading my postgreSQL info inside the env file, using gitignore file to ignore my node_modules & env file.
 
